@@ -1,0 +1,47 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "vizsga_feladat",
+    "collectionId": "46363733-0aae-4933-9323-e2e887b4b1ef",
+    "dateExported": "2024-05-21T13:52:16.801Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "e21020bd-604f-4707-bb24-03dd4420e509",
+            "colId": "46363733-0aae-4933-9323-e2e887b4b1ef",
+            "containerId": "",
+            "name": "temak",
+            "url": "http://127.0.0.1:8000/api/temak",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2024-05-21T13:49:30.185Z",
+            "modified": "2024-05-21T13:49:41.991Z",
+            "headers": []
+        },
+        {
+            "_id": "54e98e85-9380-42ff-a90f-8849ea67d826",
+            "colId": "46363733-0aae-4933-9323-e2e887b4b1ef",
+            "containerId": "",
+            "name": "szavak",
+            "url": "http://127.0.0.1:8000/api/szavak",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2024-05-21T13:50:00.201Z",
+            "modified": "2024-05-21T13:50:07.301Z",
+            "headers": []
+        },
+        {
+            "_id": "ea92cd5c-405f-482d-b461-8331437dd8d5",
+            "colId": "46363733-0aae-4933-9323-e2e887b4b1ef",
+            "containerId": "",
+            "name": "szavak_tema",
+            "url": "http://127.0.0.1:8000/api/szavak/1",
+            "method": "GET",
+            "sortNum": 30000,
+            "created": "2024-05-21T13:51:37.042Z",
+            "modified": "2024-05-21T13:51:46.076Z",
+            "headers": []
+        }
+    ],
+    "ref": "7b7Q-fOXHHx61-UwrEG8d2t5kxD2pJwAwTKUM7Z9MsEZFZw5G60blGhSDVMuPz2B-1yVgMwa2wU9qjVaZL1Ryg"
+}

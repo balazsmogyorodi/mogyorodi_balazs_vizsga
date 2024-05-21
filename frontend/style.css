@@ -1,0 +1,56 @@
+article{
+    width: 100%;
+    position: relative;
+  float: right;
+}
+
+main{
+    width: 80%;
+    margin: auto;
+}
+
+header{
+    height: 60px;
+}
+
+.vissza{
+    text-align: center;
+    text-decoration: wavy;
+    font-size: 14px;
+}
+
+
+input{
+    width: 50%;
+    margin: auto;
+    height: 20px;
+}
+
+
+.fejLec{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    border: 1px solid black;
+}
+
+.feladat{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    border: 1px solid black;
+    height: 50px;
+}
+
+
+@media only screen and(max-width: 800px) {
+
+    .fejLec{
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+
+    .feladat{
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+    
+}
